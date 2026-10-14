@@ -78,9 +78,9 @@ winta-digital/
   # Or with any static web host: Netlify, Vercel, Firebase Hosting, GitHub Pages, etc.
   ```
 
-### Customization Settings
-- **WhatsApp Phone Number**: In `index.html` and `assets/js/main.js`, update `256700000000` to Winta Digital's actual WhatsApp business number.
-- **Email & Phone**: Search for `info@wintadigital.com` and `+256 700 000 000` in `index.html` to update with live business details.
-- **Embedded Videos**:
+### Official Contact & Connect
+- **Direct Phone (Calls)**: `+256 793 442 973`
+- **WhatsApp Chat**: `+256 708 880 038` (`https://wa.me/256708880038`)
+- **Email**: `info@wintadigital.com`
+- **Embedded Showcase**:
   - The flagship YouTube video is set to `8bcTZSSRWLg` ("Yoweri" campaign music video).
-  - TikTok video links in the portfolio point to `@gen.mk4` videos (`7674762981313416468`, `7676090061032672533`, `7679905681775807765`).

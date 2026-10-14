@@ -214,8 +214,8 @@ document.addEventListener('DOMContentLoaded', () => {
         `*Project Details:* ${encodeURIComponent(notes || 'N/A')}%0A%0A` +
         `_Sent via Winta Digital Website_`;
 
-      // Uganda WhatsApp destination (configurable)
-      const whatsappNumber = '256700000000'; // Replace with company official WhatsApp number
+      // Uganda WhatsApp destination
+      const whatsappNumber = '256708880038'; // Official WhatsApp number
       const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${textMessage}`;
 
       // Show success in modal
